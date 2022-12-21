@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif)]()
+[![MasterHead](https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif)](www.globo.com)
 
 <h1 align="center">Hi 👋, I'm Jeferson Santana</h1>
 <p><h3 align="center">A passionate frontend developer from Brazil 💻</h3></p>
@@ -17,6 +17,10 @@
 - 📫 How to reach me : **jferson-araujo@hotmail.com**
 
 - ⚡ Fun fact : **I am Funny**
+
+- 🎓 I’m currently studying at university : **Estácio de Sá**
+
+- 📒 I'm taking the course : **Systems Analysis and Development - 3rd Period**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
