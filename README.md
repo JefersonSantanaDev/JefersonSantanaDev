@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*L_QoAG863l8QvqxpNyBiqw.gif)]()
 
 <h1 align="center">Hi 👋, I'm Jeferson Santana</h1>
 <p><h3 align="center">A passionate frontend developer from Brazil 💻</h3></p>
