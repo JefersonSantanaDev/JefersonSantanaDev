@@ -20,7 +20,7 @@
 
 - 🎓 I’m currently studying at university : **Estácio de Sá**
 
-- 📒 I'm taking the course : **Systems Analysis and Development - 3rd Period**
+- 📒 I'm taking the course : **Systems Analysis and Development**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
