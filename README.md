@@ -28,6 +28,6 @@ I Love Code 💻.
 
 <div align="left">
   <a href="https://github.com/JefersonSantanaDev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&theme=material&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSantanaDev&layout=compact&langs_count=7&theme=material"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSantanaDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
