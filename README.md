@@ -9,7 +9,7 @@ I Love Code 💻.
 * 🌍  I'm based in Aracaju - Brazil
 * 🖥️  See my portfolio at [Developer - Jeferson](http://jeferson-dev.vercel.app/)
 * ✉️  You can contact me at [jferson-araujo@hotmail.com](mailto:jferson-araujo@hotmail.com)
-* 🚀  I'm currently working on [Netiz](http://mkt.netiz.com.br/)
+* 🚀  I'm currently working on [Receba Digital](https://receba.digital/)
 * 🧠  I'm learning C#, Angular, TailwindCSS, FireBase and Docker
 * 🤝  I'm open to collaborating on Angular and C# Projects.
 * ⚡  I'm passionate about technology and games 🎮👨🏿‍💻
