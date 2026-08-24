@@ -38,26 +38,25 @@
 
 <h2>GitHub Stats</h2>
 
-<div
-  style="
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 16px;
-  "
->
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=JefersonSantanaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true"
-    alt="Estatísticas do GitHub"
-    width="49%"
-  />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=JefersonSantanaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
 
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=JefersonSantanaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
-    alt="Principais linguagens"
-    width="49%"
-  />
-</div>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=JefersonSantanaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <h2>Vamos conversar?</h2>
 
