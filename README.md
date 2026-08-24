@@ -3,8 +3,6 @@
 </p>
 
 <div align="center">
-  <h1>Olá, eu sou Jeferson Santana 👋</h1>
-
   <p>
     <strong>Frontend Engineer</strong> focado em Angular, React, Vue.js e TypeScript.<br>
     Construo interfaces escaláveis, acessíveis e orientadas a produto — e estou expandindo minha atuação em backend e arquitetura full-stack.
