@@ -32,52 +32,6 @@
   <li>💬 Pode falar comigo sobre Angular, React, Vue.js, TypeScript, Storybook e design systems.</li>
 </ul>
 
-<h2>Projetos em destaque</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/JefersonSantanaDev">
-          Claps
-        </a>
-      </td>
-      <td>
-        Produto em desenvolvimento, decisões de interface e evolução de funcionalidades.
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <a href="https://github.com/JefersonSantanaDev">
-          Projeto Frontend
-        </a>
-      </td>
-      <td>
-        Arquitetura, componentização, responsividade, acessibilidade e estados de UI.
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <a href="https://github.com/JefersonSantanaDev">
-          Projeto Full-stack
-        </a>
-      </td>
-      <td>
-        API, autenticação, banco de dados, testes e deploy.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <h2>Stack principal</h2>
 
 <h3>Frontend</h3>
