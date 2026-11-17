@@ -99,26 +99,31 @@ Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes a
   <a href="https://github.com/JefersonSantanaDev?tab=repositories"><strong>Ver todos os repositórios ↗</strong></a>
 </p>
 
-## `~/activity` $ git log --stat
+<h2>~/activity $ git log --stat</h2>
 
-<div align="center">
-  <a href="https://github.com/JefersonSantanaDev">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=B5FF39&text_color=C9D1D9&icon_color=B5FF39"
-      height="180"
-      alt="Estatísticas do GitHub"
-    />
-  </a>
-  <a href="https://github.com/JefersonSantanaDev?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSantanaDev&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=B5FF39&text_color=C9D1D9"
-      height="180"
-      alt="Linguagens mais utilizadas"
-    />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=B5FF39&text_color=C9D1D9&icon_color=B5FF39"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSantanaDev&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=B5FF39&text_color=C9D1D9"
+        width="100%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<sub>As estatísticas são geradas por serviço externo e podem ficar temporariamente indisponíveis. Elas não representam toda a atividade privada.</sub>
+<sub>
+  As estatísticas são geradas por serviços externos
+  e não representam toda a atividade privada.
+</sub>
 
 ## `~/contact` $ echo $CONNECT
 
