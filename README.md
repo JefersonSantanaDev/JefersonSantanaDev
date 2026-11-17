@@ -1,12 +1,12 @@
 <!--
   GitHub Profile — Jeferson Santana
-  Tema: Developer Terminal | dark + neon green
-  Assets: ./assets/header-terminal.svg
+  Tema: Developer Terminal 2.0 | dark + neon green
+  Assets: ./assets/header-terminal-animated.gif
 -->
 
 <div align="center">
 
-  <img src="./assets/header-terminal.svg" alt="Terminal: Jeferson Santana — Frontend Engineer. Angular, React, Next.js e TypeScript." width="100%" />
+  <img src="./assets/header-terminal-animated.gif" alt="Terminal: Jeferson Santana — Frontend Engineer. Angular, React, Next.js e TypeScript." width="100%" />
 
   <br />
 
@@ -108,7 +108,7 @@ Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes a
   </picture>
 </div>
 
-<sub>As estatísticas são carregadas por um serviço externo e podem ficar temporariamente indisponíveis.</sub>
+<sub>As estatísticas são geradas por serviço externo e podem ficar temporariamente indisponíveis. Elas não representam toda a atividade privada.</sub>
 
 ## `~/contact` $ echo $CONNECT
 
