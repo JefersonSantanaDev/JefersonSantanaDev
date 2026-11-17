@@ -1,58 +1,127 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=jefersonsantanadev&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=jefersonsantanadev&theme=github-dark" alt="Jeferson Santana profile hero" /></picture>
-</p>
+<!--
+  GitHub Profile — Jeferson Santana
+  Tema: Developer Terminal | dark + neon green
+  Assets: ./assets/header-terminal.svg
+-->
 
 <div align="center">
-  <p>
-    <strong>Frontend Engineer</strong> focado em Angular, React, Vue.js e TypeScript.<br>
-    Construo interfaces escaláveis, acessíveis e orientadas a produto — e estou expandindo minha atuação em backend e arquitetura full-stack.
-  </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/jefersonaraujo199518/">
-      LinkedIn
-    </a>
-    ·
-    <a href="https://github.com/JefersonSantanaDev">
-      GitHub
-    </a>
-  </p>
+  <img src="./assets/header-terminal.svg" alt="Terminal: Jeferson Santana — Frontend Engineer. Angular, React, Next.js e TypeScript." width="100%" />
+
+  <br />
+
+  <a href="https://www.linkedin.com/in/jefersonaraujo199518/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-B7FF48?style=flat-square&labelColor=101716&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JefersonSantanaDev?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-repositories-B7FF48?style=flat-square&labelColor=101716&logo=github&logoColor=FFFFFF" alt="Repositórios no GitHub" />
+  </a>
+
+  <p><samp>arquitetura frontend / qualidade / performance / experiência de produto</samp></p>
+
 </div>
 
-<h2>Sobre mim</h2>
+---
 
-<ul>
-  <li>🔭 Atualmente trabalhando no <strong>Claps</strong>.</li>
-  <li>🧩 Experiência com arquitetura frontend, design systems e bibliotecas de componentes.</li>
-  <li>📚 Aprofundando conhecimentos em NestJS, Node.js, PostgreSQL, Prisma e cloud.</li>
-  <li>🧪 Interessado em testes, observabilidade, performance e Developer Experience.</li>
-  <li>🤝 Aberto a colaborar em projetos de frontend e full-stack.</li>
-  <li>💬 Pode falar comigo sobre Angular, React, Vue.js, TypeScript, Storybook e design systems.</li>
-</ul>
+## `~/profile` $ whoami
 
-<h2>Tecnologias</h2>
+Sou desenvolvedor **front-end**, com experiência na construção e evolução de aplicações web utilizando **Angular, React, Next.js, Vue.js e TypeScript**.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Atualmente, trabalho na **Claps**, com foco em aplicações modernas, integração com APIs e arquiteturas de microfrontends. Ao longo da minha trajetória, tenho atuado com **design systems, componentização, modernização de aplicações e qualidade de software**.
 
-<h2>Github Stats</h2>
+Para mim, um bom front-end vai além de criar telas: envolve tomar decisões técnicas que tornam o produto mais **rápido, acessível, consistente e fácil de manter**.
 
-![](https://github-readme-stats.shion.dev/api?username=JefersonSantanaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JefersonSantanaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+```ts
+const developer = {
+  name: "Jeferson Santana",
+  role: "Frontend Engineer",
+  building: ["Scalable frontend", "Design systems", "Great user experiences"],
+  caresAbout: ["Architecture", "Performance", "Testing", "Accessibility"],
+  exploring: ["NestJS", "Node.js", "PostgreSQL", "Prisma", "Cloud"],
+  mindset: "Build with purpose. Improve continuously.",
+};
+```
 
-<h2>Vamos conversar?</h2>
+## `~/stack` $ ls -la
+
+**`core/` — tecnologias principais**
 
 <p>
-  Se você quer trocar ideias sobre frontend, design systems, arquitetura ou desenvolvimento full-stack,
-  entre em contato pelo
-  <a href="https://www.linkedin.com/in/jefersonaraujo199518/">
-    LinkedIn
-  </a>.
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,vue,html,css,tailwind&theme=dark" alt="TypeScript, JavaScript, Angular, React, Next.js, Vue, HTML, CSS e Tailwind CSS" />
 </p>
 
-<hr>
+**`tooling/` — engenharia, UI e colaboração**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,jest,bootstrap,dotnet,cs&theme=dark" alt="Git, GitHub, Figma, Jest, Bootstrap, .NET e C Sharp" />
+</p>
+
+Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes automatizados, code review e bibliotecas de componentes**.
+
+<details>
+  <summary><strong><code>more ./stack/other-technologies.md</code> — outras tecnologias e ferramentas</strong></summary>
+  <br />
+
+  Node.js · NestJS · Nuxt · AngularJS · Radix UI · Flutter · Markdown · AWS · Firebase · Netlify · Vercel · Docker · Nginx · GitHub Actions · Jira
+
+  > Esta lista reúne tecnologias presentes no meu repertório e em estudos; não representa o mesmo nível de experiência em todas elas.
+
+</details>
+
+## `~/principles` $ cat frontend.md
+
+| Pilar | O que valorizo |
+| :--- | :--- |
+| **Arquitetura** | Organização por responsabilidades, baixo acoplamento e evolução sustentável. |
+| **Componentização** | Interfaces consistentes, reutilizáveis e alinhadas a design systems. |
+| **Qualidade** | Testes, revisão de código, legibilidade e prevenção de regressões. |
+| **Experiência** | Acessibilidade, responsividade, estados de interface e performance. |
+| **Produto** | Soluções que equilibram necessidades reais, usabilidade e manutenção. |
+
+## `~/projects` $ ls featured/
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JefersonSantanaDev/ecommerce-products-manager">ecommerce-products-manager</a></h3>
+      <p>Aplicação Angular 21 para gestão de produtos, com filtros, formulários tipados, gerenciamento de estado, testes e organização por features.</p>
+      <code>Angular</code> <code>TypeScript</code> <code>SignalStore</code> <code>Jest</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JefersonSantanaDev/portfolio-dev-jeferson">portfolio-dev-jeferson</a></h3>
+      <p>Projeto pessoal de apresentação da minha trajetória na tecnologia, com interface web publicada e código disponível.</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://github.com/JefersonSantanaDev?tab=repositories"><strong>Ver todos os repositórios ↗</strong></a>
+</p>
+
+## `~/activity` $ git log --stat
 
 <div align="center">
-  <sub>
-    Construindo interfaces melhores, uma decisão técnica de cada vez.
-  </sub>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=237D35&text_color=24292F&icon_color=237D35" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7FF48&text_color=C9D1D9&icon_color=B7FF48" alt="Estatísticas públicas do GitHub de Jeferson Santana" />
+  </picture>
+</div>
+
+<sub>As estatísticas são carregadas por um serviço externo e podem ficar temporariamente indisponíveis.</sub>
+
+## `~/contact` $ echo $CONNECT
+
+Gosto de trocar experiências sobre **frontend, arquitetura, design systems, testes, performance e desenvolvimento de produtos**. Também estou ampliando meus conhecimentos em backend e arquitetura full-stack.
+
+<p>
+  <a href="https://www.linkedin.com/in/jefersonaraujo199518/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/JefersonSantanaDev"><strong>GitHub</strong></a>
+</p>
+
+---
+
+<div align="center">
+  <samp><strong>&gt; Construindo interfaces melhores, uma decisão técnica de cada vez._</strong></samp>
 </div>
