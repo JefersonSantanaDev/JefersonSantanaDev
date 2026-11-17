@@ -9,7 +9,7 @@
   <img src="./assets/a_wide_modern_tech_banner_in_dark_black_green_gra.png" alt="Jeferson Santana — Frontend Engineer, banner verde neon com avatar ilustrado" width="100%" />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jefersonaraujo199518/"><img src="https://img.shields.io/badge/LinkedIn-connect-B7FF48?style=flat-square&labelColor=101716&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>&emsp;&emsp;&emsp;<a href="https://github.com/JefersonSantanaDev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-B7FF48?style=flat-square&labelColor=101716&logo=github&logoColor=FFFFFF" alt="Repositórios no GitHub" /></a>
+    <a href="https://www.linkedin.com/in/jefersonaraujo199518/"><img src="https://img.shields.io/badge/LinkedIn-connect-B7FF48?style=flat-square&labelColor=101716&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://github.com/JefersonSantanaDev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-B7FF48?style=flat-square&labelColor=101716&logo=github&logoColor=FFFFFF" alt="Repositórios no GitHub" /></a>
   </p>
 
   <p><samp>arquitetura frontend / qualidade / performance / experiência de produto</samp></p>
