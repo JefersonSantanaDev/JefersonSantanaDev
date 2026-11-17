@@ -6,7 +6,9 @@
 
 <div align="center">
 
-  <img src="./assets/header-terminal-animated.gif" alt="Terminal: Jeferson Santana — Frontend Engineer. Angular, React, Next.js e TypeScript." width="100%" />
+  <img src="./assets/header-terminal-static-v2.svg" alt="Jeferson Santana — Frontend Engineer" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1300&color=B7FF48&center=true&vCenter=true&repeat=true&width=850&height=54&lines=Angular+%7C+React+%7C+Next.js+%7C+TypeScript;Arquitetura+frontend+%7C+Testes+%7C+Performance;Interfaces+escalaveis+e+acessiveis" alt="Tecnologias e especialidades de Jeferson em animação de digitação" />
 
   <br />
 
