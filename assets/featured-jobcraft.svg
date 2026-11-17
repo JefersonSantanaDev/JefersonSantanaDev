@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="318" viewBox="0 0 1120 318" role="img">
+<title>JobCraft — projeto pessoal</title><desc>Currículos melhores, com IA e contexto da vaga. Acesse jobcraft.jeferson.site clicando no card.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B111A"/><stop offset=".7" stop-color="#0D1923"/><stop offset="1" stop-color="#153147"/></linearGradient><linearGradient id="badge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#83E4F7"/><stop offset="1" stop-color="#8DB5FF"/></linearGradient><pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#73D9EF" opacity=".16"/></pattern><clipPath id="clip"><rect x="1" y="1" width="1118" height="316" rx="22"/></clipPath></defs>
+<rect x="1" y="1" width="1118" height="316" rx="22" fill="url(#bg)" stroke="#3F6374" stroke-width="2"/>
+<g clip-path="url(#clip)"><circle cx="1000" cy="209" r="245" fill="#25637C" opacity=".18"/><path d="M725 0L1120 245" stroke="#4FC3D9" opacity=".13" stroke-width="2"/><rect x="600" y="0" width="520" height="318" fill="url(#dots)"/></g>
+<rect x="34" y="30" width="40" height="40" rx="12" fill="url(#badge)"/><path d="M45 51L50 56L62 43M45 62H63" fill="none" stroke="#143145" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="89" y="56" fill="#9CB3C6" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="15" letter-spacing="2">PROJETO EM DESTAQUE  /  02</text>
+<text x="34" y="137" fill="#F7FAFF" font-family="DejaVu Sans,Arial,sans-serif" font-size="56" font-weight="800">JobCraft</text>
+<rect x="34" y="151" width="86" height="4" rx="2" fill="#73D9EF"/>
+<text x="34" y="190" fill="#D7E5F0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20">Currículos melhores, com IA e contexto da vaga.</text>
+<rect x="34" y="213" width="101" height="29" rx="14.5" fill="#182D3A" stroke="#416273"/><text x="51" y="233" fill="#C8EFF7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">React 19</text><rect x="144" y="213" width="92" height="29" rx="14.5" fill="#182D3A" stroke="#416273"/><text x="161" y="233" fill="#C8EFF7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">FastAPI</text><rect x="245" y="213" width="124" height="29" rx="14.5" fill="#182D3A" stroke="#416273"/><text x="262" y="233" fill="#C8EFF7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">PostgreSQL</text>
+<rect x="34" y="265" width="243" height="37" rx="10" fill="#73D9EF"/><text x="52" y="290" fill="#112414" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="800">EXPLORAR JOBCRAFT  ↗</text>
+
+<rect x="682" y="47" width="397" height="234" rx="16" fill="#121F2A" stroke="#538398" stroke-width="2"/><rect x="699" y="65" width="363" height="198" rx="10" fill="#142633"/>
+<rect x="714" y="81" width="144" height="165" rx="9" fill="#F7FAFE"/>
+<circle cx="731" cy="99" r="6" fill="#62C4DD"/><text x="744" y="103" fill="#1B465A" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700">Currículo</text>
+<rect x="727" y="117" width="94" height="6" rx="3" fill="#B6C9D6"/><rect x="727" y="133" width="116" height="6" rx="3" fill="#D4E1E9"/><rect x="727" y="149" width="103" height="6" rx="3" fill="#D4E1E9"/><rect x="727" y="175" width="116" height="6" rx="3" fill="#9CCCD9"/><rect x="727" y="191" width="97" height="6" rx="3" fill="#D4E1E9"/><rect x="727" y="207" width="105" height="6" rx="3" fill="#D4E1E9"/>
+<rect x="871" y="81" width="176" height="69" rx="9" fill="#203D4B" stroke="#3F758B"/><text x="884" y="102" fill="#8ADDE9" font-family="DejaVu Sans,Arial,sans-serif" font-size="11">contexto da vaga</text><rect x="884" y="113" width="130" height="6" rx="3" fill="#76BDCF"/><rect x="884" y="126" width="92" height="6" rx="3" fill="#5D97AD"/>
+<rect x="871" y="161" width="176" height="85" rx="9" fill="#173D46" stroke="#396D76"/><text x="884" y="183" fill="#9AEBDD" font-family="DejaVu Sans,Arial,sans-serif" font-size="11">sugestões com IA</text>
+<circle cx="888" cy="200" r="5" fill="#73D9EF"/><path d="M885 200L887 202L891 198" stroke="#173D46" fill="none" stroke-width="1.3"/><rect x="900" y="197" width="120" height="5" rx="2.5" fill="#5FA1A9"/>
+<circle cx="888" cy="220" r="5" fill="#73D9EF"/><path d="M885 220L887 222L891 218" stroke="#173D46" fill="none" stroke-width="1.3"/><rect x="900" y="217" width="99" height="5" rx="2.5" fill="#5FA1A9"/>
+</svg>
