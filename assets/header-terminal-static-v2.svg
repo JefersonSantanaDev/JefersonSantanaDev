@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Terminal de Jeferson Santana, Frontend Engineer">
+<rect width="1200" height="290" rx="20" fill="#080D0C"/>
+<rect x="12" y="12" width="1176" height="266" rx="16" fill="#0D1513" stroke="#365446" stroke-width="2"/>
+<path d="M12 57H1188" stroke="#2C4C3D" stroke-width="2"/>
+<circle cx="39" cy="35" r="7" fill="#F47878"/><circle cx="63" cy="35" r="7" fill="#F7CB6D"/><circle cx="87" cy="35" r="7" fill="#7AD99B"/>
+<g font-family="monospace">
+<text x="600" y="40" font-size="13" text-anchor="middle" fill="#91A99E">jeferson@frontend: ~/profile.ts</text>
+<text x="47" y="98" font-size="18" fill="#B7FF48">$ whoami</text>
+<text x="47" y="162" font-size="48" font-weight="bold" fill="#F3F7F4">Jeferson Santana</text>
+<text x="47" y="204" font-size="20" fill="#B7FF48">Frontend Engineer</text>
+<text x="47" y="250" font-size="13" fill="#6F9885">architecture  ·  testing  ·  performance</text>
+<rect x="822" y="79" width="319" height="176" rx="10" fill="#0A110F" stroke="#244235" stroke-width="2"/>
+<text x="842" y="106" font-size="13" fill="#719B89">// focus.ts</text>
+<text x="842" y="136" font-size="12" fill="#9ED9CE">const focus = {</text>
+<text x="857" y="158" font-size="12" fill="#9ED9CE">ui: "accessible",</text>
+<text x="857" y="180" font-size="12" fill="#9ED9CE">code: "clean",</text>
+<text x="857" y="202" font-size="12" fill="#9ED9CE">dx: "thoughtful",</text>
+<text x="857" y="224" font-size="12" fill="#9ED9CE">product: "first"</text>
+<text x="842" y="245" font-size="12" fill="#9ED9CE">};</text>
+</g></svg>
