@@ -1,7 +1,7 @@
 <!--
   GitHub Profile — Jeferson Santana
   Tema: Developer Terminal 2.0 | dark + neon green
-  Assets: ./assets/header-terminal-animated.svg
+  Assets: ./assets/header-terminal-animated.gif
 -->
 
 <div align="center">
