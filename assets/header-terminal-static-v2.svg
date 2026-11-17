@@ -8,11 +8,11 @@
 <text x="47" y="98" font-size="18" fill="#B7FF48">$ whoami</text>
 <text x="47" y="162" font-size="48" font-weight="bold" fill="#F3F7F4">Jeferson Santana</text>
 <text x="47" y="204" font-size="20" fill="#B7FF48">Frontend Engineer</text>
-<text x="47" y="250" font-size="13" fill="#6F9885">architecture  ·  testing  ·  performance</text>
+<text x="47" y="240" font-size="13" fill="#6F9885">architecture  ·  testing  ·  performance</text>
 <g opacity="0.7" stroke-linecap="round">
-<path d="M875 119H1116" stroke="#284D3C" stroke-width="2"/>
-<path d="M875 140H1040" stroke="#315C46" stroke-width="2"/>
-<path d="M875 161H1090" stroke="#254836" stroke-width="2"/>
-<path d="M875 182H1007" stroke="#315C46" stroke-width="2"/>
+<path d="M875 141H1116" stroke="#284D3C" stroke-width="2"/>
+<path d="M875 162H1040" stroke="#315C46" stroke-width="2"/>
+<path d="M875 183H1090" stroke="#254836" stroke-width="2"/>
+<path d="M875 204H1007" stroke="#315C46" stroke-width="2"/>
 </g>
 </g></svg>
