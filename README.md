@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/jefersonaraujo199518/">
     <img src="https://img.shields.io/badge/LinkedIn-connect-B7FF48?style=flat-square&labelColor=101716&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/JefersonSantanaDev?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-repositories-B7FF48?style=flat-square&labelColor=101716&logo=github&logoColor=FFFFFF" alt="Repositórios no GitHub" />
   </a>
