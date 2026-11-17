@@ -75,20 +75,21 @@ Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes a
 
 ## `~/projects` $ ls featured/
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JefersonSantanaDev/ecommerce-products-manager">ecommerce-products-manager</a></h3>
-      <p>Aplicação Angular 21 para gestão de produtos, com filtros, formulários tipados, gerenciamento de estado, testes e organização por features.</p>
-      <code>Angular</code> <code>TypeScript</code> <code>SignalStore</code> <code>Jest</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JefersonSantanaDev/portfolio-dev-jeferson">portfolio-dev-jeferson</a></h3>
-      <p>Projeto pessoal de apresentação da minha trajetória na tecnologia, com interface web publicada e código disponível.</p>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-    </td>
-  </tr>
-</table>
+Dois produtos pessoais que desenvolvo, com foco em **experiência de uso, arquitetura e soluções para problemas reais**.
+
+<p align="center">
+  <a href="https://soma.jeferson.site" title="Conhecer o Soma — finanças a dois">
+    <img src="./assets/featured-soma.svg" width="100%" alt="Soma — finanças a dois, com clareza e privacidade. Vue 3, TypeScript e Supabase. Clique para acessar o produto." />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://jobcraft.jeferson.site" title="Conhecer o JobCraft — currículos com inteligência artificial">
+    <img src="./assets/featured-jobcraft.svg" width="100%" alt="JobCraft — currículos melhores com inteligência artificial e contexto da vaga. React 19, FastAPI e PostgreSQL. Clique para acessar o produto." />
+  </a>
+</p>
+
+<sub>Clique em um dos banners para acessar o projeto.</sub>
 
 <p align="right">
   <a href="https://github.com/JefersonSantanaDev?tab=repositories"><strong>Ver todos os repositórios ↗</strong></a>
