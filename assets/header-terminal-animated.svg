@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="Jeferson Santana — Frontend Engineer. Angular, React, Next.js e TypeScript.">
+<defs>
+  <clipPath id="role"><rect x="66" y="204" height="35" width="0"><animate attributeName="width" values="0;0;290;290" keyTimes="0;.15;.47;1" dur="5.5s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="stack"><rect x="66" y="249" height="34" width="0"><animate attributeName="width" values="0;0;540;540" keyTimes="0;.46;.84;1" dur="5.5s" repeatCount="indefinite"/></rect></clipPath>
+  <style>text{font-family:'DejaVu Sans Mono',monospace}@media(prefers-reduced-motion:reduce){animate{display:none}#role rect,#stack rect{width:560px}}</style>
+</defs>
+<rect x="1" y="1" width="1198" height="368" rx="20" fill="#080D0C" stroke="#294638" stroke-width="2"/>
+<rect x="26" y="22" width="1148" height="326" rx="13" fill="#0D1513" stroke="#365446" stroke-width="2"/><path d="M26 68H1174" stroke="#2C4C3D" stroke-width="2"/>
+<circle cx="53" cy="48" r="7" fill="#F47878"/><circle cx="77" cy="48" r="7" fill="#F7CB6D"/><circle cx="101" cy="48" r="7" fill="#7AD99B"/>
+<text x="600" y="52" font-size="13" text-anchor="middle" fill="#91A99E">jeferson@frontend: ~/profile.ts</text>
+<text x="66" y="110" font-size="17" fill="#B7FF48">$ whoami</text>
+<text x="65" y="182" font-family="Arial,sans-serif" font-size="51" font-weight="bold" fill="#F3F7F4">Jeferson Santana</text>
+<g clip-path="url(#role)"><text x="66" y="230" font-size="22" font-weight="bold" fill="#B7FF48">Frontend Engineer</text></g>
+<g clip-path="url(#stack)"><text x="66" y="272" font-size="15" fill="#9ED9CE">&gt; Angular  /  React  /  Next.js  /  TypeScript</text></g>
+<rect x="67" y="280" width="10" height="20" fill="#B7FF48"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="66" y="324" font-size="12" fill="#6F9885">architecture  ·  testing  ·  performance</text>
+<rect x="824" y="94" width="304" height="211" rx="10" fill="#0A110F" stroke="#244235" stroke-width="2"/>
+<text x="845" y="132" font-size="14" fill="#719B89">// focus.ts</text>
+<text x="843" y="162" font-size="12" fill="#446A57">01</text><text x="874" y="162" font-size="12" fill="#F3F7F4" opacity="0">const focus = {<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.170;0.180;1" dur="5.5s" repeatCount="indefinite"/></text>
+<text x="843" y="186" font-size="12" fill="#446A57">02</text><text x="874" y="186" font-size="12" fill="#9ED9CE" opacity="0">  ui: &quot;accessible&quot;,<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.275;0.285;1" dur="5.5s" repeatCount="indefinite"/></text>
+<text x="843" y="210" font-size="12" fill="#446A57">03</text><text x="874" y="210" font-size="12" fill="#9ED9CE" opacity="0">  code: &quot;clean&quot;,<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.380;0.390;1" dur="5.5s" repeatCount="indefinite"/></text>
+<text x="843" y="234" font-size="12" fill="#446A57">04</text><text x="874" y="234" font-size="12" fill="#9ED9CE" opacity="0">  dx: &quot;thoughtful&quot;,<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.485;0.495;1" dur="5.5s" repeatCount="indefinite"/></text>
+<text x="843" y="258" font-size="12" fill="#446A57">05</text><text x="874" y="258" font-size="12" fill="#9ED9CE" opacity="0">  product: &quot;first&quot;<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.590;0.600;1" dur="5.5s" repeatCount="indefinite"/></text>
+<text x="843" y="282" font-size="12" fill="#446A57">06</text><text x="874" y="282" font-size="12" fill="#F3F7F4" opacity="0">};<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.695;0.705;1" dur="5.5s" repeatCount="indefinite"/></text>
+</svg>
