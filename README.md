@@ -102,10 +102,20 @@ Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes a
 ## `~/activity` $ git log --stat
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=237D35&text_color=24292F&icon_color=237D35" />
-    <img src="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7FF48&text_color=C9D1D9&icon_color=B7FF48" alt="Estatísticas públicas do GitHub de Jeferson Santana" />
-  </picture>
+  <a href="https://github.com/JefersonSantanaDev">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=JefersonSantanaDev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=B5FF39&text_color=C9D1D9&icon_color=B5FF39"
+      height="180"
+      alt="Estatísticas do GitHub"
+    />
+  </a>
+  <a href="https://github.com/JefersonSantanaDev?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonSantanaDev&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=B5FF39&text_color=C9D1D9"
+      height="180"
+      alt="Linguagens mais utilizadas"
+    />
+  </a>
 </div>
 
 <sub>As estatísticas são geradas por serviço externo e podem ficar temporariamente indisponíveis. Elas não representam toda a atividade privada.</sub>
