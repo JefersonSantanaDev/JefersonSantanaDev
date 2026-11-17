@@ -1,0 +1,59 @@
+name: Build animated profile GIF (one time)
+on:
+  push:
+    paths:
+      - '.github/workflows/build-profile-gif.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m pip install pillow
+      - name: Render animated GIF and commit
+        shell: bash
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageDraw, ImageFont
+          import os
+          W,H=1200,370
+          font='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf'
+          bold='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf'
+          def f(n,b=False): return ImageFont.truetype(bold if b else font,n)
+          frames=[]
+          for k in range(18):
+              im=Image.new('RGB',(W,H),'#080D0C')
+              d=ImageDraw.Draw(im)
+              d.rounded_rectangle((2,2,W-3,H-3),radius=20,outline='#294638',width=2)
+              d.rounded_rectangle((26,22,1174,348),radius=13,fill='#0D1513',outline='#365446',width=2)
+              d.line((26,68,1174,68),fill='#2C4C3D',width=2)
+              for x,c in [(53,'#F47878'),(77,'#F7CB6D'),(101,'#7AD99B')]: d.ellipse((x-7,41,x+7,55),fill=c)
+              d.text((440,41),'jeferson@frontend: ~/profile.ts',font=f(13),fill='#91A99E')
+              d.text((65,92),'$ whoami',font=f(18),fill='#B7FF48')
+              d.text((62,128),'Jeferson Santana',font=f(50,True),fill='#F3F7F4')
+              role='Frontend Engineer'
+              n=max(0,min(len(role),int((k-2)*len(role)/8)))
+              if n:d.text((66,208),role[:n],font=f(22,True),fill='#B7FF48')
+              stack='> Angular  /  React  /  Next.js  /  TypeScript'
+              m=max(0,min(len(stack),int((k-6)*len(stack)/10)))
+              if m:d.text((66,254),stack[:m],font=f(15),fill='#9ED9CE')
+              if k%2==0:d.rectangle((66,281,76,300),fill='#B7FF48')
+              d.text((66,316),'architecture  ·  testing  ·  performance',font=f(12),fill='#6F9885')
+              d.rounded_rectangle((824,94,1128,305),radius=10,fill='#0A110F',outline='#244235',width=2)
+              d.text((845,116),'// focus.ts',font=f(14),fill='#719B89')
+              lines=['const focus = {','  ui: "accessible",','  code: "clean",','  dx: "thoughtful",','  product: "first"','};']
+              for j,line in enumerate(lines[:max(0,k-2)]):
+                  y=151+j*24
+                  d.text((843,y),f'{j+1:02}',font=f(12),fill='#446A57')
+                  d.text((874,y),line,font=f(12),fill='#9ED9CE' if j in (1,2,3,4) else '#F3F7F4')
+              frames.append(im.quantize(colors=64,method=Image.Quantize.MEDIANCUT))
+          os.makedirs('assets',exist_ok=True)
+          frames[0].save('assets/header-terminal-animated.gif',save_all=True,append_images=frames[1:],duration=180,loop=0,optimize=True,disposal=2)
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/header-terminal-animated.gif
+          git commit -m "feat(profile): publish animated GIF header"
+          git push
