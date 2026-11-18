@@ -62,16 +62,6 @@ Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes a
 
 </details>
 
-## `~/principles` $ cat frontend.md
-
-| Pilar | O que valorizo |
-| :--- | :--- |
-| **Arquitetura** | Organização por responsabilidades, baixo acoplamento e evolução sustentável. |
-| **Componentização** | Interfaces consistentes, reutilizáveis e alinhadas a design systems. |
-| **Qualidade** | Testes, revisão de código, legibilidade e prevenção de regressões. |
-| **Experiência** | Acessibilidade, responsividade, estados de interface e performance. |
-| **Produto** | Soluções que equilibram necessidades reais, usabilidade e manutenção. |
-
 ## `~/projects` $ ls featured/
 
 Dois produtos pessoais que desenvolvo, com foco em **experiência de uso, arquitetura e soluções para problemas reais**.
