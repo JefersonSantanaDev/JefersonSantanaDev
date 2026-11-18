@@ -38,13 +38,26 @@ Para mim, um bom front-end vai além de criar telas: envolve tomar decisões té
   <img src="https://skillicons.dev/icons?i=git,github,figma,jest,bootstrap,dotnet,cs&theme=dark" alt="Git, GitHub, Figma, Jest, Bootstrap, .NET e C Sharp" />
 </p>
 
+**`backend/` — projetos pessoais e estudos**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,postgres&theme=dark" alt="Node.js, NestJS, Python, FastAPI e PostgreSQL" />
+</p>
+
+**`infra/` — deploy e operações**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions&theme=dark" alt="Docker, Nginx e GitHub Actions" />
+  <img src="https://img.shields.io/badge/Dokploy-Deploy-B7FF48?style=for-the-badge&labelColor=0D1117" alt="Dokploy" height="48" />
+</p>
+
 Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes automatizados, code review e bibliotecas de componentes**.
 
 <details>
   <summary><strong><code>more ./stack/other-technologies.md</code> — outras tecnologias e ferramentas</strong></summary>
   <br />
 
-  Node.js · NestJS · Nuxt · AngularJS · Radix UI · Flutter · Markdown · AWS · Firebase · Netlify · Vercel · Docker · Nginx · GitHub Actions · Jira
+  Nuxt · AngularJS · Radix UI · Flutter · Markdown · AWS · Firebase · Netlify · Vercel · Jira
 
   > Esta lista reúne tecnologias presentes no meu repertório e em estudos; não representa o mesmo nível de experiência em todas elas.
 
