@@ -110,10 +110,8 @@ Dois produtos pessoais que desenvolvo, com foco em **experiência de uso, arquit
 
 Gosto de trocar experiências sobre **frontend, arquitetura, design systems, testes, performance e desenvolvimento de produtos**. Também estou ampliando meus conhecimentos em backend e arquitetura full-stack.
 
-<p>
-  <a href="https://www.linkedin.com/in/jefersonaraujo199518/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/JefersonSantanaDev"><strong>GitHub</strong></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jefersonaraujo199518/" title="Conectar no LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Conectar-B7FF48?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn — Conectar" height="38" /></a>&emsp;&emsp;&emsp;<a href="https://github.com/JefersonSantanaDev" title="Visitar GitHub"><img src="https://img.shields.io/badge/GitHub-Perfil-B7FF48?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="GitHub — Perfil" height="38" /></a>
 </p>
 
 ---
