@@ -24,17 +24,6 @@ Atualmente, trabalho na **Claps**, com foco em aplicações modernas, integraç�
 
 Para mim, um bom front-end vai além de criar telas: envolve tomar decisões técnicas que tornam o produto mais **rápido, acessível, consistente e fácil de manter**.
 
-```ts
-const developer = {
-  name: "Jeferson Santana",
-  role: "Frontend Engineer",
-  building: ["Scalable frontend", "Design systems", "Great user experiences"],
-  caresAbout: ["Architecture", "Performance", "Testing", "Accessibility"],
-  exploring: ["NestJS", "Node.js", "PostgreSQL", "Prisma", "Cloud"],
-  mindset: "Build with purpose. Improve continuously.",
-};
-```
-
 ## `~/stack` $ ls -la
 
 **`core/` — tecnologias principais**
