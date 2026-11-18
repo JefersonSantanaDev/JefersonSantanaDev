@@ -1,20 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="318" viewBox="0 0 1120 318" role="img">
-<title>Soma — projeto pessoal</title><desc>Finanças a dois, com clareza e privacidade. Acesse soma.jeferson.site clicando no card.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1210"/><stop offset=".7" stop-color="#0B1611"/><stop offset="1" stop-color="#133322"/></linearGradient><linearGradient id="badge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C5FF75"/><stop offset="1" stop-color="#6DDB7B"/></linearGradient><pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#B7FF48" opacity=".16"/></pattern><clipPath id="clip"><rect x="1" y="1" width="1118" height="316" rx="22"/></clipPath></defs>
-<rect x="1" y="1" width="1118" height="316" rx="22" fill="url(#bg)" stroke="#3B6250" stroke-width="2"/>
-<g clip-path="url(#clip)"><circle cx="991" cy="224" r="254" fill="#1C5239" opacity=".27"/><circle cx="985" cy="225" r="178" fill="none" stroke="#6AD98A" stroke-width="1.5" opacity=".16"/><rect x="600" y="0" width="520" height="318" fill="url(#dots)"/></g>
-<rect x="34" y="30" width="40" height="40" rx="12" fill="url(#badge)"/><path d="M45 50H63M54 41V59" stroke="#143D24" stroke-width="4" stroke-linecap="round"/>
-<text x="89" y="56" fill="#9DB4A5" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="15" letter-spacing="2">PROJETO EM DESTAQUE  /  01</text>
-<text x="34" y="137" fill="#F7FAFF" font-family="DejaVu Sans,Arial,sans-serif" font-size="56" font-weight="800">Soma</text>
-<rect x="34" y="151" width="53" height="4" rx="2" fill="#B7FF48"/>
-<text x="34" y="190" fill="#DCEAE0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21">Finanças a dois, com clareza e privacidade.</text>
-<rect x="34" y="213" width="82" height="29" rx="14.5" fill="#1D3227" stroke="#43664E"/><text x="51" y="233" fill="#C8ECD3" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">Vue 3</text><rect x="125" y="213" width="117" height="29" rx="14.5" fill="#1D3227" stroke="#43664E"/><text x="142" y="233" fill="#C8ECD3" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">TypeScript</text><rect x="251" y="213" width="108" height="29" rx="14.5" fill="#1D3227" stroke="#43664E"/><text x="268" y="233" fill="#C8ECD3" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">Supabase</text>
-<rect x="34" y="265" width="211" height="37" rx="10" fill="#B7FF48"/><text x="52" y="290" fill="#112414" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="800">ACESSAR SOMA  ↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="318" viewBox="0 0 1120 318" role="img" aria-label="Soma, finanças a dois. Vue 3, TypeScript e Node.js.">
+<style>text{font-family:Arial,'DejaVu Sans',sans-serif}</style>
 
-<rect x="670" y="45" width="418" height="242" rx="18" fill="#10251B" stroke="#5A936B" stroke-width="2"/>
-<rect x="687" y="63" width="384" height="207" rx="12" fill="#EFF8EB"/>
-<circle cx="711" cy="84" r="5" fill="#7BB787"/><circle cx="727" cy="84" r="5" fill="#B4D0B5"/><circle cx="743" cy="84" r="5" fill="#B4D0B5"/>
-<rect x="702" y="103" width="152" height="54" rx="10" fill="#E8F4E3" stroke="#C5DCC5"/><text x="717" y="125" fill="#44634E" font-family="DejaVu Sans,Arial,sans-serif" font-size="11">visão do mês</text><path d="M717 145H836" stroke="#88B58F" stroke-width="8" stroke-linecap="round"/>
-<rect x="869" y="103" width="187" height="54" rx="10" fill="#DBEAD5"/><text x="881" y="125" fill="#466750" font-family="DejaVu Sans,Arial,sans-serif" font-size="11">pessoal + compartilhado</text><rect x="882" y="138" width="86" height="8" rx="4" fill="#82B48B"/><rect x="975" y="138" width="59" height="8" rx="4" fill="#BBDBB4"/>
-<rect x="702" y="170" width="354" height="84" rx="10" fill="#F8FBF6" stroke="#C5DCC5"/><text x="719" y="191" fill="#597361" font-family="DejaVu Sans,Arial,sans-serif" font-size="11">movimentações</text><path d="M722 230C748 221 760 234 783 219S819 221 842 209S882 231 903 216S956 198 982 215S1022 210 1041 201" fill="none" stroke="#2F9F5C" stroke-width="4" stroke-linecap="round"/><path d="M722 234H1041" stroke="#CDDCCB" stroke-width="1"/>
+<defs>
+<linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#040B07"/><stop offset=".63" stop-color="#08180C"/><stop offset="1" stop-color="#18370B"/></linearGradient>
+<clipPath id="clp"><rect width="1118" height="316" x="1" y="1" rx="25"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1118" height="316" rx="25" fill="url(#sbg)" stroke="#A7F43A" stroke-width="2"/>
+<g clip-path="url(#clp)">
+<path d="M0 275Q110 223 230 322H0Z" fill="#78C73A" opacity=".20"/>
+<path d="M930 -25 Q1040 70 1153 0V-40Z" fill="#8BEC3E" opacity=".38"/>
+<path d="M941 330Q995 234 1150 214" fill="none" stroke="#83E83F" stroke-width="2" opacity=".32"/>
+</g>
+<rect x="450" y="55" width="2" height="210" fill="#A4F244" opacity=".76"/>
+<svg x="83" y="103" width="105" height="105" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="#11140F"/><path
+    d="M16 23c4-12 27-13 32-1 4 9-6 11-16 10"
+    fill="none"
+    stroke="#A6E46F"
+    stroke-width="8"
+    stroke-linecap="round"
+  />
+<path
+    d="M32 32c-10-1-20 2-16 11 5 12 28 11 32-2"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="8"
+    stroke-linecap="round"
+  /></svg>
+<text x="201" y="173" font-size="72" font-weight="800" fill="#F7FBF7" letter-spacing="-3">soma</text>
+<text x="490" y="90" font-size="32" font-weight="800" fill="#FFFFFF">Finanças a dois, de forma</text>
+<text x="490" y="127" font-size="32" font-weight="800" fill="#B7FF48">simples e transparente.</text>
+<text x="490" y="172" font-size="18" fill="#DFE6DD">Organize as finanças do casal, acompanhe os gastos</text>
+<text x="490" y="197" font-size="18" fill="#DFE6DD">e planeje o futuro com mais clareza.</text>
+
+<rect x="490" y="229" width="121" height="46" rx="14" fill="#111817" stroke="#42B883" stroke-width="2"/>
+<path d="M508 243 L516 259 L524 243 L518 243 L516 249 L513 243Z" fill="#42B883"/>
+<text x="528" y="258" font-size="17" font-weight="600" fill="#F8FAFC">Vue 3</text>
+<rect x="625" y="229" width="161" height="46" rx="14" fill="#111817" stroke="#3178C6" stroke-width="2"/>
+<rect x="637" y="239" width="25" height="25" rx="4" fill="#3178C6"/><text x="639" y="256" font-size="14" font-weight="700" fill="#FFF">TS</text>
+<text x="663" y="258" font-size="17" font-weight="600" fill="#F8FAFC">TypeScript</text>
+<rect x="800" y="229" width="134" height="46" rx="14" fill="#111817" stroke="#80BD41" stroke-width="2"/>
+<polygon points="813,244 826,237 838,244 838,258 826,265 813,258" fill="none" stroke="#80BD41" stroke-width="2.5"/><text x="819" y="254" font-size="11" font-weight="700" fill="#80BD41">JS</text>
+<text x="838" y="258" font-size="17" font-weight="600" fill="#F8FAFC">Node.js</text>
+<rect x="953" y="228" width="143" height="47" rx="23.5" fill="#A8F13E"/>
+<text x="972" y="258" font-size="16" font-weight="700" fill="#10200C">Acessar Soma ↗</text>
 </svg>
