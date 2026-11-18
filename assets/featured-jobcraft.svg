@@ -1,22 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="318" viewBox="0 0 1120 318" role="img">
-<title>JobCraft — projeto pessoal</title><desc>Currículos melhores, com IA e contexto da vaga. Acesse jobcraft.jeferson.site clicando no card.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B111A"/><stop offset=".7" stop-color="#0D1923"/><stop offset="1" stop-color="#153147"/></linearGradient><linearGradient id="badge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#83E4F7"/><stop offset="1" stop-color="#8DB5FF"/></linearGradient><pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#73D9EF" opacity=".16"/></pattern><clipPath id="clip"><rect x="1" y="1" width="1118" height="316" rx="22"/></clipPath></defs>
-<rect x="1" y="1" width="1118" height="316" rx="22" fill="url(#bg)" stroke="#3F6374" stroke-width="2"/>
-<g clip-path="url(#clip)"><circle cx="1000" cy="209" r="245" fill="#25637C" opacity=".18"/><path d="M725 0L1120 245" stroke="#4FC3D9" opacity=".13" stroke-width="2"/><rect x="600" y="0" width="520" height="318" fill="url(#dots)"/></g>
-<rect x="34" y="30" width="40" height="40" rx="12" fill="url(#badge)"/><path d="M45 51L50 56L62 43M45 62H63" fill="none" stroke="#143145" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="89" y="56" fill="#9CB3C6" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="15" letter-spacing="2">PROJETO EM DESTAQUE  /  02</text>
-<text x="34" y="137" fill="#F7FAFF" font-family="DejaVu Sans,Arial,sans-serif" font-size="56" font-weight="800">JobCraft</text>
-<rect x="34" y="151" width="86" height="4" rx="2" fill="#73D9EF"/>
-<text x="34" y="190" fill="#D7E5F0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20">Currículos melhores, com IA e contexto da vaga.</text>
-<rect x="34" y="213" width="101" height="29" rx="14.5" fill="#182D3A" stroke="#416273"/><text x="51" y="233" fill="#C8EFF7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">React 19</text><rect x="144" y="213" width="92" height="29" rx="14.5" fill="#182D3A" stroke="#416273"/><text x="161" y="233" fill="#C8EFF7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">FastAPI</text><rect x="245" y="213" width="124" height="29" rx="14.5" fill="#182D3A" stroke="#416273"/><text x="262" y="233" fill="#C8EFF7" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700">PostgreSQL</text>
-<rect x="34" y="265" width="243" height="37" rx="10" fill="#73D9EF"/><text x="52" y="290" fill="#112414" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="800">EXPLORAR JOBCRAFT  ↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="318" viewBox="0 0 1120 318" role="img" aria-label="JobCraft, currículos com inteligência artificial. React, TypeScript e Python.">
+<style>text{font-family:Arial,'DejaVu Sans',sans-serif}</style>
 
-<rect x="682" y="47" width="397" height="234" rx="16" fill="#121F2A" stroke="#538398" stroke-width="2"/><rect x="699" y="65" width="363" height="198" rx="10" fill="#142633"/>
-<rect x="714" y="81" width="144" height="165" rx="9" fill="#F7FAFE"/>
-<circle cx="731" cy="99" r="6" fill="#62C4DD"/><text x="744" y="103" fill="#1B465A" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700">Currículo</text>
-<rect x="727" y="117" width="94" height="6" rx="3" fill="#B6C9D6"/><rect x="727" y="133" width="116" height="6" rx="3" fill="#D4E1E9"/><rect x="727" y="149" width="103" height="6" rx="3" fill="#D4E1E9"/><rect x="727" y="175" width="116" height="6" rx="3" fill="#9CCCD9"/><rect x="727" y="191" width="97" height="6" rx="3" fill="#D4E1E9"/><rect x="727" y="207" width="105" height="6" rx="3" fill="#D4E1E9"/>
-<rect x="871" y="81" width="176" height="69" rx="9" fill="#203D4B" stroke="#3F758B"/><text x="884" y="102" fill="#8ADDE9" font-family="DejaVu Sans,Arial,sans-serif" font-size="11">contexto da vaga</text><rect x="884" y="113" width="130" height="6" rx="3" fill="#76BDCF"/><rect x="884" y="126" width="92" height="6" rx="3" fill="#5D97AD"/>
-<rect x="871" y="161" width="176" height="85" rx="9" fill="#173D46" stroke="#396D76"/><text x="884" y="183" fill="#9AEBDD" font-family="DejaVu Sans,Arial,sans-serif" font-size="11">sugestões com IA</text>
-<circle cx="888" cy="200" r="5" fill="#73D9EF"/><path d="M885 200L887 202L891 198" stroke="#173D46" fill="none" stroke-width="1.3"/><rect x="900" y="197" width="120" height="5" rx="2.5" fill="#5FA1A9"/>
-<circle cx="888" cy="220" r="5" fill="#73D9EF"/><path d="M885 220L887 222L891 218" stroke="#173D46" fill="none" stroke-width="1.3"/><rect x="900" y="217" width="99" height="5" rx="2.5" fill="#5FA1A9"/>
+<defs>
+<linearGradient id="jbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070707"/><stop offset=".55" stop-color="#0B0B0C"/><stop offset="1" stop-color="#222225"/></linearGradient>
+<clipPath id="jcl"><rect x="1" y="1" width="1118" height="316" rx="25"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1118" height="316" rx="25" fill="url(#jbg)" stroke="#77777B" stroke-width="2"/>
+<g clip-path="url(#jcl)">
+<path d="M0 266L185 318H0Z" fill="#FFFFFF" opacity=".1"/>
+<path d="M996 0H1120V28L1080 98L935 164Z" fill="#FFF" opacity=".09"/>
+<path d="M1022 318L1130 212" fill="none" stroke="#DDD" stroke-width="2" opacity=".13"/>
+</g>
+<svg x="65" y="95" width="350" height="132" viewBox="0 0 260 96">
+  <title id="job-title">JobCraft</title>
+  <desc id="job-desc">Wordmark oficial do JobCraft</desc>
+  <rect width="260" height="96" rx="8" fill="#080808"/>
+  <g transform="translate(24 76)" fill="#ffffff">
+    <path d="M14.63 0.50Q10.91 0.50 7.84-0.94Q4.78-2.37 2.98-5.20Q1.19-8.03 1.19-12.16L1.19-25.94L12.06-25.94L12.06-12.81Q12.06-11.37 12.64-10.50Q13.22-9.62 14.50-9.62Q16.97-9.62 16.97-12.66L16.97-55L28.06-55L28.06-13.75Q28.06-9.37 26.34-6.17Q24.63-2.97 21.59-1.23Q18.56 0.50 14.63 0.50M42.41 0.50Q35.81 0.50 32.33-3.48Q28.84-7.47 28.84-15L28.84-41.12Q28.84-48.19 32.30-51.84Q35.75-55.50 42.41-55.50Q49.06-55.50 52.52-51.84Q55.97-48.19 55.97-41.12L55.97-15Q55.97-7.47 52.48-3.48Q49 0.50 42.41 0.50M42.50-9.62Q45-9.62 45-14.47L45-41.31Q45-45.37 42.56-45.37Q39.81-45.37 39.81-41.22L39.81-14.41Q39.81-11.84 40.44-10.73Q41.06-9.62 42.50-9.62M72.31 0L57.41 0L57.41-55L72.31-55Q78.31-55 81.05-52.08Q83.78-49.16 83.78-42.44L83.78-40.03Q83.78-36.16 82.39-33.75Q81-31.34 78.16-30.59Q81.88-29.66 83.14-26.20Q84.41-22.75 84.41-17.78Q84.41-12.44 83.41-8.44Q82.41-4.44 79.78-2.22Q77.16 0 72.31 0M68.16-46.50L68.16-34.28L70.41-34.28Q71.94-34.28 72.38-35.47Q72.81-36.66 72.81-38.31L72.81-43.84Q72.81-46.50 70.47-46.50L68.16-46.50M69.25-9.69Q73.53-9.69 73.53-13.75L73.53-20.62Q73.53-22.97 72.83-24.33Q72.13-25.69 70.19-25.69L68.16-25.69L68.16-9.75Q68.84-9.69 69.25-9.69M97.84 0.50Q91.88 0.50 88.23-3.22Q84.59-6.94 84.59-13.62L84.59-39Q84.59-47 87.77-51.25Q90.94-55.50 98.09-55.50Q102-55.50 105.05-54.06Q108.09-52.62 109.84-49.77Q111.59-46.91 111.59-42.56L111.59-33.06L100.66-33.06L100.66-41.19Q100.66-43.66 100.03-44.52Q99.41-45.37 98.09-45.37Q96.56-45.37 96.03-44.27Q95.50-43.16 95.50-41.31L95.50-13.78Q95.50-11.50 96.17-10.56Q96.84-9.62 98.09-9.62Q99.50-9.62 100.08-10.78Q100.66-11.94 100.66-13.78L100.66-23.69L111.72-23.69L111.72-13.28Q111.72-6.03 108.06-2.77Q104.41 0.50 97.84 0.50M123.50 0L112.38 0L112.38-55L129.25-55Q133.47-55 135.63-53.08Q137.78-51.16 138.52-47.70Q139.25-44.25 139.25-39.59Q139.25-35.09 138.11-32.41Q136.97-29.72 133.81-28.69Q136.41-28.16 137.45-26.11Q138.50-24.06 138.50-20.81L138.50 0L127.66 0L127.66-21.53Q127.66-23.94 126.67-24.52Q125.69-25.09 123.50-25.09L123.50 0M123.56-44.81L123.56-34.62L126.22-34.62Q128.50-34.62 128.50-39.59Q128.50-42.81 128-43.81Q127.50-44.81 126.13-44.81L123.56-44.81M149.06 0L138.38 0L143.69-55L162.34-55L167.56 0L157.16 0L156.38-8.87L149.75-8.87L149.06 0M152.63-45.62L150.53-17.66L155.53-17.66L153.13-45.62L152.63-45.62M179 0L167.94 0L167.94-55L189.94-55L189.94-44.28L179-44.28L179-35.53L189.38-35.53L189.38-24.94L179-24.94L179 0M206.19 0L195.19 0L195.19-44.44L188.66-44.44L188.66-55L212.72-55L212.72-44.44L206.19-44.44"/>
+  </g>
+</svg>
+
+<rect x="450" y="55" width="2" height="210" fill="#B5B5B5" opacity=".76"/>
+<text x="490" y="90" font-size="31" font-weight="800" fill="#FAFAFA">Análise de currículos com IA</text>
+<text x="490" y="127" font-size="31" font-weight="800" fill="#FAFAFA">e contexto da vaga.</text>
+<text x="490" y="172" font-size="18" fill="#D3D3D7">Aprimore seu currículo com sugestões inteligentes</text>
+<text x="490" y="197" font-size="18" fill="#D3D3D7">alinhadas à oportunidade que você deseja.</text>
+
+<rect x="490" y="229" width="119" height="46" rx="14" fill="#111817" stroke="#61DAFB" stroke-width="2"/>
+<g stroke="#61DAFB" stroke-width="1.6" fill="none" transform="translate(511 251)"><ellipse rx="13" ry="5"/><ellipse rx="13" ry="5" transform="rotate(60)"/><ellipse rx="13" ry="5" transform="rotate(120)"/><circle r="2.6" fill="#61DAFB" stroke="none"/></g>
+<text x="528" y="258" font-size="17" font-weight="600" fill="#F8FAFC">React</text>
+<rect x="623" y="229" width="161" height="46" rx="14" fill="#111817" stroke="#3178C6" stroke-width="2"/>
+<rect x="635" y="239" width="25" height="25" rx="4" fill="#3178C6"/><text x="637" y="256" font-size="14" font-weight="700" fill="#FFF">TS</text>
+<text x="661" y="258" font-size="17" font-weight="600" fill="#F8FAFC">TypeScript</text>
+<rect x="798" y="229" width="133" height="46" rx="14" fill="#111817" stroke="#F4C542" stroke-width="2"/>
+<path d="M816 240H829Q836 240 836 247V251H824V255H811V247Q811 240 816 240Z" fill="#3776AB"/><path d="M821 266H814Q808 266 808 259V255H821V251H836V259Q836 266 829 266Z" fill="#FFD43B"/><circle cx="816" cy="245" r="1.5" fill="#FFF"/><circle cx="829" cy="262" r="1.5" fill="#FFF"/>
+<text x="836" y="258" font-size="17" font-weight="600" fill="#F8FAFC">Python</text>
+<rect x="951" y="228" width="145" height="47" rx="23.5" fill="#0B0B0C" stroke="#F1F1F2" stroke-width="2"/>
+<text x="963" y="258" font-size="15.5" font-weight="700" fill="#F7F7F8">Acessar JobCraft ↗</text>
 </svg>
