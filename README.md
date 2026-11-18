@@ -79,13 +79,13 @@ Dois produtos pessoais que desenvolvo, com foco em **experiência de uso, arquit
 
 <p align="center">
   <a href="https://soma.jeferson.site" title="Conhecer o Soma — finanças a dois">
-    <img src="./assets/featured-soma.svg" width="100%" alt="Soma — finanças a dois, com clareza e privacidade. Vue 3, TypeScript e Node.js. Clique para acessar o produto." />
+    <img src="./assets/featured-soma.png" width="100%" alt="Soma — finanças a dois, com clareza e privacidade. Vue 3, TypeScript e Node.js. Clique para acessar o produto." />
   </a>
 </p>
 
 <p align="center">
   <a href="https://jobcraft.jeferson.site" title="Conhecer o JobCraft — currículos com inteligência artificial">
-    <img src="./assets/featured-jobcraft.svg" width="100%" alt="JobCraft — currículos melhores com inteligência artificial e contexto da vaga. React, TypeScript e Python. Clique para acessar o produto." />
+    <img src="./assets/featured-jobcraft.png" width="100%" alt="JobCraft — currículos melhores com inteligência artificial e contexto da vaga. React, TypeScript e Python. Clique para acessar o produto." />
   </a>
 </p>
 
