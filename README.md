@@ -92,7 +92,7 @@ Dois produtos pessoais que desenvolvo, com foco em **experiência de uso, arquit
 <sub>Clique em um dos banners para acessar o projeto.</sub>
 
 <p align="right">
-  <a href="https://github.com/JefersonSantanaDev?tab=repositories"><strong>Ver todos os repositórios ↗</strong></a>
+  <a href="https://github.com/JefersonSantanaDev?tab=repositories"><strong>Ver todos os repositórios</strong></a>
 </p>
 
 <h2>~/activity $ git log --stat</h2>
