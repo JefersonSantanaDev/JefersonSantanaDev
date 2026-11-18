@@ -35,20 +35,19 @@ Para mim, um bom front-end vai além de criar telas: envolve tomar decisões té
 **`tooling/` — engenharia, UI e colaboração**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,jest,bootstrap,dotnet,cs&theme=dark" alt="Git, GitHub, Figma, Jest, Bootstrap, .NET e C Sharp" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,jest,bootstrap&theme=dark" alt="Git, GitHub, Figma, Jest e Bootstrap" />
 </p>
 
-**`backend/` — projetos pessoais e estudos**
+**`backend/` — desenvolvimento de APIs e serviços**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,postgres&theme=dark" alt="Node.js, NestJS, Python, FastAPI e PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,postgres,dotnet,cs&theme=dark" alt="Node.js, NestJS, Python, FastAPI, PostgreSQL, .NET e C#" />
 </p>
 
 **`infra/` — deploy e operações**
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions&theme=dark" alt="Docker, Nginx e GitHub Actions" />
-  <img src="https://img.shields.io/badge/Dokploy-Deploy-B7FF48?style=for-the-badge&labelColor=0D1117" alt="Dokploy" height="48" />
 </p>
 
 Também tenho contato com **Storybook, RxJS, APIs REST, microfrontends, testes automatizados, code review e bibliotecas de componentes**.
